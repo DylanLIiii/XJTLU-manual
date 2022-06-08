@@ -6,7 +6,6 @@ coverY: 0
 
 # 😀 Welcome, XJTLUer!
 
-灵感来源&#x20;
-
-* [https://survivesjtu.gitbook.io/survivesjtumanual/](https://survivesjtu.gitbook.io/survivesjtumanual/)
-* [https://csdiy.wiki/](https://csdiy.wiki/)
+{% content-ref url="sheng-cun-zhi-bei-xu.md" %}
+[sheng-cun-zhi-bei-xu.md](sheng-cun-zhi-bei-xu.md)
+{% endcontent-ref %}
