@@ -9,6 +9,16 @@ coverY: 0
 **如果你愿意分享你的经历, 观点, 和任何文字, 欢迎提交你的内容!**
 {% endhint %}
 
+### 通过表单提交内容
+
+表单提交需要确保你的网络能够访问 Google&#x20;
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSemMWjIQtAN2WA4d2dZky9_btZfBIKxUqKFjAX14AmkhNn6Tg/viewform" %}
+表单
+{% endembed %}
+
+_**点击**_[_**此处**_](https://docs.google.com/forms/d/e/1FAIpQLSemMWjIQtAN2WA4d2dZky9\_btZfBIKxUqKFjAX14AmkhNn6Tg/viewform)_**开始填写内容提交表单**_
+
 ### 通过邮件提交内容
 
 请使用以下模板完成内容撰写.
