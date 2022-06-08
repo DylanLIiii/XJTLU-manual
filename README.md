@@ -20,8 +20,8 @@ coverY: 0
 
 如果你是第一次浏览本指南, 强烈建议先读完序章.
 
-{% content-ref url="sheng-cun-zhi-bei-xu.md" %}
-[sheng-cun-zhi-bei-xu.md](sheng-cun-zhi-bei-xu.md)
+{% content-ref url="xjtlu-sheng-cun-zhi-bei-xu.md" %}
+[xjtlu-sheng-cun-zhi-bei-xu.md](xjtlu-sheng-cun-zhi-bei-xu.md)
 {% endcontent-ref %}
 
 页面的左侧包含本指南的右侧是当前页面的 Table of Content.
