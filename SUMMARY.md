@@ -5,21 +5,29 @@
 
 ## 🌗 西浦生存自救指北
 
+* [ICS](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/README.md)
+  * [ICS 大二学习经验分享 (2)](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/ics-da-er-xue-xi-jing-yan-fen-xiang-2.md)
+  * [ICS 大二学习经验分享 (1)](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/ics-da-er-xue-xi-jing-yan-fen-xiang-1.md)
+  * [ICS 大二学习经验分享 (4)](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/ics-da-er-xue-xi-jing-yan-fen-xiang-4.md)
+  * [ICS 大二学习经验分享 (3)](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/ics-da-er-xue-xi-jing-yan-fen-xiang-3.md)
 * [转专业指南](xi-pu-sheng-cun-zi-jiu-zhi-bei/zhuan-zhuan-ye-zhi-nan.md)
 * [金数选手如何选课](xi-pu-sheng-cun-zi-jiu-zhi-bei/jin-shu-xuan-shou-ru-he-xuan-ke.md)
 
 ## ⭐ 留学申请自救指北
 
 * [金数申请思考](liu-xue-shen-qing-zi-jiu-zhi-bei/jin-shu-shen-qing-si-kao.md)
+* [2 + 行程准备](liu-xue-shen-qing-zi-jiu-zhi-bei/2-+-hang-cheng-zhun-bei.md)
+* [2+ 签证篇](liu-xue-shen-qing-zi-jiu-zhi-bei/2+-qian-zheng-pian.md)
 
 ## ☀ 学术语言自救指北
 
 * [聊聊学术语言](xue-shu-yu-yan-zi-jiu-zhi-bei/liao-liao-xue-shu-yu-yan.md)
 * [EAP, Why so serious?](xue-shu-yu-yan-zi-jiu-zhi-bei/make-eap-easy.md)
+* [行程篇](xue-shu-yu-yan-zi-jiu-zhi-bei/hang-cheng-pian.md)
 
 ## 🌤 求职发展自救指北
 
-* [商科大二实习经验分享](qiu-zhi-fa-zhan-zi-jiu-zhi-bei/shang-ke-da-er-shi-xi-jing-yan-fen-xiang.md)
+* [华为研发岗面试经历](qiu-zhi-fa-zhan-zi-jiu-zhi-bei/hua-wei-yan-fa-gang-mian-shi-jing-li.md)
 
 ## 👀 想要贡献你的力量?
 
