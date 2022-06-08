@@ -10,6 +10,8 @@
   * [ICS 大二学习经验分享 (1)](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/ics-da-er-xue-xi-jing-yan-fen-xiang-1.md)
   * [ICS 大二学习经验分享 (4)](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/ics-da-er-xue-xi-jing-yan-fen-xiang-4.md)
   * [ICS 大二学习经验分享 (3)](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/ics-da-er-xue-xi-jing-yan-fen-xiang-3.md)
+  * [利物浦Y2 CS 课程介绍 | 上学期](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/li-wu-pu-y2-cs-ke-cheng-jie-shao-shang-xue-qi.md)
+  * [利物浦Y2 CS 课程介绍 | 下学期](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/li-wu-pu-y2-cs-ke-cheng-jie-shao-xia-xue-qi.md)
 * [转专业指南](xi-pu-sheng-cun-zi-jiu-zhi-bei/zhuan-zhuan-ye-zhi-nan.md)
 * [金数选手如何选课](xi-pu-sheng-cun-zi-jiu-zhi-bei/jin-shu-xuan-shou-ru-he-xuan-ke.md)
 
@@ -22,8 +24,8 @@
 ## ☀ 学术语言自救指北
 
 * [聊聊学术语言](xue-shu-yu-yan-zi-jiu-zhi-bei/liao-liao-xue-shu-yu-yan.md)
-* [EAP, Why so serious?](xue-shu-yu-yan-zi-jiu-zhi-bei/make-eap-easy.md)
-* [行程篇](xue-shu-yu-yan-zi-jiu-zhi-bei/hang-cheng-pian.md)
+* [EAP](xue-shu-yu-yan-zi-jiu-zhi-bei/eap/README.md)
+  * [EAP, Why so serious?](xue-shu-yu-yan-zi-jiu-zhi-bei/eap/eap-why-so-serious.md)
 
 ## 🌤 求职发展自救指北
 

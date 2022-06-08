@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/circle-scatter-haikei.svg
+cover: ../../.gitbook/assets/circle-scatter-haikei.svg
 coverY: 0
 ---
 
