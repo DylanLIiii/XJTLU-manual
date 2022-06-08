@@ -1,12 +1,13 @@
 # Table of contents
 
-* [Preface](README.md)
+* [😀 Welcome, XJTLUer!](README.md)
 
-## EAP
+## 👀 想要贡献你的力量?
 
-* [EAP](eap/eap.md)
+* [📙 提交更改](xiang-yao-gong-xian-ni-de-li-liang/ti-jiao-geng-gai.md)
+* [📙 提交内容](xiang-yao-gong-xian-ni-de-li-liang/ti-jiao-nei-rong.md)
 
-***
+## The Formal Stuff
 
-* [测试页面](ce-shi-ye-mian.md)
-* [Test LInk](https://www.dylanheddedly.cn)
+* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
+* [Filing Expenses](the-formal-stuff/filing-expenses.md)
