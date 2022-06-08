@@ -24,6 +24,10 @@ coverY: 0
 * 发送邮件及附件至 `Dylan.h.li@outlook.com`
 * 邮件标题为 `XJTLU Manual 内容提交`
 
+另, 以下文档类型也被支持
+
+![文档支持类型](<../.gitbook/assets/CleanShot 2022-06-08 at 17.50.25@2x.png>)
+
 ### 通过 GitHub 提交内容
 
 请在 Fork 项目后本地更改, 提交 PR.
