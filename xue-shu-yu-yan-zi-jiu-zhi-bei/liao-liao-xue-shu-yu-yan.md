@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/blurry-gradient-haikei.svg
-coverY: 0
+coverY: -192.59875259875258
 ---
 
 # 聊聊学术语言
