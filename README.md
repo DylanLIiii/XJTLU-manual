@@ -20,3 +20,24 @@ coverY: 0
 
 页面的左侧包含本指南的所有内容, 右侧是当前页面的 Table of Content.
 
+{% tabs %}
+{% tab title="需求征集表单" %}
+你现在最需要什么内容?
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeDRL5CB_qcpYIC7_SKtSiV3SVSX8E99ejjZNAsFRwZoRZeSQ/viewform?usp=sf_link" %}
+{% endtab %}
+
+{% tab title="提交建议与反馈" %}
+{% content-ref url="xiang-yao-gong-xian-ni-de-li-liang/ti-jiao-geng-gai.md" %}
+[ti-jiao-geng-gai.md](xiang-yao-gong-xian-ni-de-li-liang/ti-jiao-geng-gai.md)
+{% endcontent-ref %}
+{% endtab %}
+
+{% tab title="提交新内容" %}
+如果你也想要写点什么, 为后来人做出一些参考, 亦或是抒发自己在西浦就读的感受, 欢迎分享\~
+
+{% content-ref url="xiang-yao-gong-xian-ni-de-li-liang/ti-jiao-nei-rong.md" %}
+[ti-jiao-nei-rong.md](xiang-yao-gong-xian-ni-de-li-liang/ti-jiao-nei-rong.md)
+{% endcontent-ref %}
+{% endtab %}
+{% endtabs %}
