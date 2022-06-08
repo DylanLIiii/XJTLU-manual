@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/blob-haikei.svg
 coverY: 0
 ---
 
-# ✍ 提交更改
+# 提交更改
 
 {% hint style="info" %}
 **如果你发现 Doc 中任何地方需要更改, 或者文章中的观点已经完全不适合当下, 请通过以下渠道提交 issue.**
