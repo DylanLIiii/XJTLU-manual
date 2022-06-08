@@ -7,12 +7,11 @@
 * [✍ 提交更改](xiang-yao-gong-xian-ni-de-li-liang/ti-jiao-geng-gai.md)
 * [✍ 提交内容](xiang-yao-gong-xian-ni-de-li-liang/ti-jiao-nei-rong.md)
 
-## ⚡ 学术英语自救指北
+## ⚡ 学术语言自救指北
 
-* [聊聊学术语言](xue-shu-ying-yu-zi-jiu-zhi-bei/liao-liao-xue-shu-yu-yan.md)
-* [Make EAP easy](xue-shu-ying-yu-zi-jiu-zhi-bei/make-eap-easy.md)
-* [Filing Expenses](xue-shu-ying-yu-zi-jiu-zhi-bei/filing-expenses.md)
+* [聊聊学术语言](xue-shu-yu-yan-zi-jiu-zhi-bei/liao-liao-xue-shu-yu-yan.md)
+* [Make EAP Easy](xue-shu-yu-yan-zi-jiu-zhi-bei/make-eap-easy.md)
 
-## Group 1
+## 😘 Other
 
-* [🔥 施工进度](group-1/shi-gong-jin-du.md)
+* [🔥 施工进度](other/shi-gong-jin-du.md)

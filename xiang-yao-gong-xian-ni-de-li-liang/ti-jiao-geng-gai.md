@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/blob-scene-haikei.png
-coverY: 8.356545961002787
+cover: ../.gitbook/assets/blob-haikei.svg
+coverY: 0
 ---
 
 # ✍ 提交更改

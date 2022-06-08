@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/low-poly-grid-haikei.png
+cover: ../.gitbook/assets/blob-scene-haikei.svg
 coverY: 0
 ---
 
