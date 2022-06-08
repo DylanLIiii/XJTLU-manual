@@ -10,7 +10,7 @@
 ## ⚡ 学术语言自救指北
 
 * [聊聊学术语言](xue-shu-yu-yan-zi-jiu-zhi-bei/liao-liao-xue-shu-yu-yan.md)
-* [Make EAP Easy](xue-shu-yu-yan-zi-jiu-zhi-bei/make-eap-easy.md)
+* [Make EAP easy](xue-shu-yu-yan-zi-jiu-zhi-bei/make-eap-easy.md)
 
 ## 😘 Other
 
