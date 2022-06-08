@@ -1,5 +1,9 @@
 # 2 + 行程准备
 
+{% hint style="success" %}
+作者 @Ricky Xu
+{% endhint %}
+
 ### **写在前面**
 
 好久不见hhh，终于又恢复更新了。

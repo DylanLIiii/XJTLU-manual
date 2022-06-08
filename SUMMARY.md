@@ -25,7 +25,7 @@
 
 * [聊聊学术语言](xue-shu-yu-yan-zi-jiu-zhi-bei/liao-liao-xue-shu-yu-yan.md)
 * [EAP](xue-shu-yu-yan-zi-jiu-zhi-bei/eap/README.md)
-  * [EAP, Why so serious?](xue-shu-yu-yan-zi-jiu-zhi-bei/eap/eap-why-so-serious.md)
+  * [EAP, Why so serious?](xue-shu-yu-yan-zi-jiu-zhi-bei/make-eap-easy.md)
 
 ## 🌤 求职发展自救指北
 
