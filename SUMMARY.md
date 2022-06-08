@@ -1,7 +1,7 @@
 # Table of contents
 
 * [😀 Welcome, XJTLUer!](README.md)
-* [😆 XJTLU生存指北 -- 序](xjtlu-sheng-cun-zhi-bei-xu.md)
+* [☄ XJTLU生存指北 -- 序](xjtlu-sheng-cun-zhi-bei-xu.md)
 
 ## 🌗 西浦生存自救指北
 
