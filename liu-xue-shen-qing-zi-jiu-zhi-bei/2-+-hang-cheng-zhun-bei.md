@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/blob-scene-haikei.svg
-coverY: 0
----
-
 # 2 + 行程准备
 
 {% hint style="success" %}

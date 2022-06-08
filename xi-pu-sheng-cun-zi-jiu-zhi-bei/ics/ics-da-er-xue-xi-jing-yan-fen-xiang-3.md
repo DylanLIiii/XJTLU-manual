@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/low-poly-grid-haikei.svg
-coverY: 0
----
-
 # ICS 大二学习经验分享 (3)
 
 {% hint style="success" %}

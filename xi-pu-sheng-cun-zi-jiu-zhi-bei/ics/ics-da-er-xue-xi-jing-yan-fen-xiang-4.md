@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/layered-waves-haikei.svg
-coverY: 0
----
-
 # ICS 大二学习经验分享 (4)
 
 {% hint style="success" %}

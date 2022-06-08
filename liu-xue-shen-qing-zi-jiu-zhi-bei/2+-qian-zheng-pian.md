@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/layered-waves-haikei.svg
-coverY: 0
----
-
 # 2+ 签证篇
 
 > 本文发出时间为 2020 年末
