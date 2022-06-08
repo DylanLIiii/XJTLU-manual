@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/stacked-waves-haikei.svg
+coverY: -144.26401257202724
+---
+
 # ICS 大二学习经验分享 (2)
 
 {% hint style="success" %}
