@@ -1,7 +1,7 @@
 # Table of contents
 
 * [😀 Welcome, XJTLUer!](README.md)
-* [🔆 生存指北](sheng-cun-zhi-bei.md)
+* [🔆 生存指北(序)](sheng-cun-zhi-bei-xu.md)
 
 ## ⚡ 学术语言自救指北
 
