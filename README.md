@@ -30,9 +30,9 @@ coverY: 0
 [xjtlu-sheng-cun-zhi-bei-xu.md](xjtlu-sheng-cun-zhi-bei-xu.md)
 {% endcontent-ref %}
 
-页面的左侧包含本指南的右侧是当前页面的 Table of Content.
+页面的左侧包含本指南的所有内容, 右侧是当前页面的 Table of Content.
 
-所有内容都来自于校友的自发分享, 希望能给你参考, 也希望你能辩证的看待每一个人的内容, 形成自己独特的思考.
+_**所有内容都来自于校友的自发分享, 希望能给你参考, 也希望你能辩证的看待每一个人的内容, 形成自己独特的思考.**_
 
 {% tabs %}
 {% tab title="提交新内容" %}

@@ -7,7 +7,10 @@ coverY: 0
 # 转学之旅 (Part1)
 
 {% hint style="success" %}
-作者: Ricky \
+作者: Ricky&#x20;
+
+作者公众号: [Ricky的舒适圈](https://mp.weixin.qq.com/s/3NsH4vHeIs\_5oaLvTZAWiQ)
+
 作者是 大二2021-2022 学年经金专业 Top1, 目前已转学\~ 希望他的经历能给大家一点参考
 {% endhint %}
 
