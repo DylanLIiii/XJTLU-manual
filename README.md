@@ -55,3 +55,7 @@ coverY: 0
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeDRL5CB_qcpYIC7_SKtSiV3SVSX8E99ejjZNAsFRwZoRZeSQ/viewform?usp=sf_link" %}
 {% endtab %}
 {% endtabs %}
+
+### PS
+
+* 2022.6 由于众所周知的原因, 近期 Gitbook 和 Github 的国内访问会时常出现波动, 请使用科学上网工具翻阅本指南.
