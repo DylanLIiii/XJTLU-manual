@@ -3,44 +3,29 @@ cover: ../.gitbook/assets/low-poly-grid-haikei.png
 coverY: 0
 ---
 
-# 📙 提交内容
+# ✍ 提交内容
 
 {% hint style="info" %}
-**如果你**
+**如果你愿意分享你的经历, 观点, 和任何文字, 欢迎提交你的内容!**
 {% endhint %}
 
-## Esme DeWalt
+### 通过邮件提交内容
 
-👋 CEO — 💌 esme@company.com — 🇺🇸 San Francisco (GMT-7)
+请使用以下模板完成内容戳写.
 
-![](https://images.unsplash.com/photo-1571442463800-1337d7af9d2f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2973\&q=80)
+**Markdown File**
 
-### Bio
+{% file src="../.gitbook/assets/Template.md" %}
 
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
+**Word File**
 
-## Rima Paterson
+{% file src="../.gitbook/assets/Template.docx" %}
 
-👋 CTO — 💌 rima@company.com — 🇳🇱 Amsterdam (GMT+1)
+* 发送邮件及附件至 `Dylan.h.li@outlook.com`
+* 邮件标题为 `XJTLU Manual 内容提交`
 
-![](https://images.unsplash.com/photo-1502764613149-7f1d229e230f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2972\&q=80)
+### 通过 GitHub 提交内容
 
-### Bio
+请在 Fork 项目后本地更改, 提交 PR.
 
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
-
-## Stefan Barr
-
-👋 Head of Product — 💌 stefan@company.com — 🇫🇷 Marseille (GMT+1)
-
-![](https://images.unsplash.com/photo-1601935111741-ae98b2b230b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2970\&q=80)
-
-### Bio
-
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
+{% embed url="https://github.com/DylanLIiii/XJTLU-manual" %}
