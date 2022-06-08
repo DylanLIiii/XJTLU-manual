@@ -50,10 +50,9 @@ coverY: 0
 {% endtab %}
 
 {% tab title="需求征集表单" %}
-由于使用了 Google Form, 请开启科学上网工具填写.\
-你现在最需要什么内容?
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeDRL5CB_qcpYIC7_SKtSiV3SVSX8E99ejjZNAsFRwZoRZeSQ/viewform?usp=sf_link" %}
+{% content-ref url="xiang-yao-gong-xian-ni-de-li-liang/xu-qiu-shou-ji.md" %}
+[xu-qiu-shou-ji.md](xiang-yao-gong-xian-ni-de-li-liang/xu-qiu-shou-ji.md)
+{% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
 

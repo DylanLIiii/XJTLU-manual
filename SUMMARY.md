@@ -1,7 +1,7 @@
 # Table of contents
 
 * [😀 Welcome, XJTLUer!](README.md)
-* [☄ XJTLU生存指北 -- 序](xjtlu-sheng-cun-zhi-bei-xu.md)
+* [🍨 XJTLU生存指北 -- 序](xjtlu-sheng-cun-zhi-bei-xu.md)
 
 ## 🌗 西浦生存自救指北
 
@@ -38,3 +38,4 @@
 
 * [建议与反馈](xiang-yao-gong-xian-ni-de-li-liang/ti-jiao-geng-gai.md)
 * [提交你的新内容\~](xiang-yao-gong-xian-ni-de-li-liang/ti-jiao-nei-rong.md)
+* [需求收集](xiang-yao-gong-xian-ni-de-li-liang/xu-qiu-shou-ji.md)
