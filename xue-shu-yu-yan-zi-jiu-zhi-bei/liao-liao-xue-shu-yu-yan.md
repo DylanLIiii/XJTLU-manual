@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/low-poly-grid-haikei.svg
+cover: ../.gitbook/assets/blurry-gradient-haikei.svg
 coverY: 0
 ---
 
