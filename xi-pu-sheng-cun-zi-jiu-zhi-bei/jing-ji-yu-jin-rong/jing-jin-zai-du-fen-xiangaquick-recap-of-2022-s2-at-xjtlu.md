@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/layered-waves-haikei.svg
+coverY: 0
+---
+
 # \[经金在读分享]A quick recap of 2022 S2 at XJTLU
 
 {% hint style="success" %}

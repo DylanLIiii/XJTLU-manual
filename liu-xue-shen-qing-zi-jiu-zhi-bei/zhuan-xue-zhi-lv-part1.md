@@ -1,5 +1,7 @@
 ---
 description: 全英警告⚠️
+cover: ../.gitbook/assets/stacked-waves-haikei.svg
+coverY: 0
 ---
 
 # 转学之旅 (Part1)
