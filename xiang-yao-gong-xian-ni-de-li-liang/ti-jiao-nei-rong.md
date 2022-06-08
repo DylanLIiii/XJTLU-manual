@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/blob-scene-haikei.svg
 coverY: 0
 ---
 
-# 提交内容
+# 提交你的新内容\~
 
 {% hint style="info" %}
 **如果你愿意分享你的经历, 观点, 和任何文字, 欢迎提交你的内容!**
