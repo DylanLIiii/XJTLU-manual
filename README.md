@@ -50,6 +50,7 @@ coverY: 0
 {% endtab %}
 
 {% tab title="需求征集表单" %}
+由于使用了 Google Form, 请开启科学上网工具填写.\
 你现在最需要什么内容?
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeDRL5CB_qcpYIC7_SKtSiV3SVSX8E99ejjZNAsFRwZoRZeSQ/viewform?usp=sf_link" %}
