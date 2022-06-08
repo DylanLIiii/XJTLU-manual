@@ -5,6 +5,8 @@
 
 ## 🌗 西浦生存自救指北
 
+* [经济与金融](xi-pu-sheng-cun-zi-jiu-zhi-bei/jing-ji-yu-jin-rong/README.md)
+  * [\[经金在读分享\]A quick recap of 2022 S2 at XJTLU](xi-pu-sheng-cun-zi-jiu-zhi-bei/jing-ji-yu-jin-rong/jing-jin-zai-du-fen-xiangaquick-recap-of-2022-s2-at-xjtlu.md)
 * [ICS](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/README.md)
   * [ICS 大二学习经验分享 (2)](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/ics-da-er-xue-xi-jing-yan-fen-xiang-2.md)
   * [ICS 大二学习经验分享 (1)](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/ics-da-er-xue-xi-jing-yan-fen-xiang-1.md)
@@ -20,6 +22,7 @@
 * [金数申请思考](liu-xue-shen-qing-zi-jiu-zhi-bei/jin-shu-shen-qing-si-kao.md)
 * [2 + 行程准备](liu-xue-shen-qing-zi-jiu-zhi-bei/2-+-hang-cheng-zhun-bei.md)
 * [2+ 签证篇](liu-xue-shen-qing-zi-jiu-zhi-bei/2+-qian-zheng-pian.md)
+* [转学之旅 (Part1)](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-zhi-lv-part1.md)
 
 ## ☀ 学术语言自救指北
 
