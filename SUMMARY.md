@@ -2,7 +2,7 @@
 
 * [😀 Welcome, XJTLUer!](README.md)
 * [🍨 XJTLU生存指北 -- 序](xjtlu-sheng-cun-zhi-bei-xu.md)
-* [✍ Blog](https://dylanheddedly.notion.site/Blog-1897d18b5a55486694d1ac914647a54e)
+* [🚀 Update](https://dylanheddedly.notion.site/Blog-1897d18b5a55486694d1ac914647a54e)
 
 ## 🌗 西浦生存自救指北
 
