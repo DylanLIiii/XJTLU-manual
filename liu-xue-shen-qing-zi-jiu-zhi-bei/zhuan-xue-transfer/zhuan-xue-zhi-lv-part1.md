@@ -1,6 +1,6 @@
 ---
 description: 全英警告⚠️
-cover: ../.gitbook/assets/stacked-waves-haikei.svg
+cover: ../../.gitbook/assets/stacked-waves-haikei.svg
 coverY: 0
 ---
 

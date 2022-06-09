@@ -4,7 +4,7 @@ cover: .gitbook/assets/stacked-waves-haikei.svg
 coverY: 0
 ---
 
-# 😆 XJTLU生存指北 -- 序
+# 🍨 XJTLU生存指北 -- 序
 
 ## 序
 

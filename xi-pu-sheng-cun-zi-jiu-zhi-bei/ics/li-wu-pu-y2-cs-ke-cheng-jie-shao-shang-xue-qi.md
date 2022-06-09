@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/layered-waves-haikei.svg
+coverY: 0
+---
+
 # 利物浦Y2 CS 课程介绍 | 上学期
 
 {% hint style="success" %}

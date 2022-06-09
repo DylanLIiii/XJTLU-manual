@@ -1,9 +1,13 @@
 ---
-cover: ../.gitbook/assets/blob-scene-haikei.svg
+cover: ../.gitbook/assets/blob-scatter-haikei.svg
 coverY: 0
 ---
 
 # 提交你的新内容\~
+
+{% hint style="success" %}
+目前投稿赠送一枚永久 Office 365 A1 Plus 账号 \~
+{% endhint %}
 
 {% hint style="info" %}
 **如果你愿意分享你的经历, 观点, 和任何文字, 欢迎提交你的内容!**

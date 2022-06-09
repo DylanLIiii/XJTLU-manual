@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/stacked-waves-haikei.svg
+coverY: 0
+---
+
 # 华为研发岗面试经历
 
 {% hint style="success" %}
