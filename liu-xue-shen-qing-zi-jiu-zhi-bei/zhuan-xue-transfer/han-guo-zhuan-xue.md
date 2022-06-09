@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/blob-scatter-haikei.svg
+coverY: 135.77789418543742
+---
+
 # 韩国转学
 
 {% hint style="success" %}

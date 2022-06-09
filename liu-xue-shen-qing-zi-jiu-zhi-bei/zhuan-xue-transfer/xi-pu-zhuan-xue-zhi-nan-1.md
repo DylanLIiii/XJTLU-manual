@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/blurry-gradient-haikei.svg
+coverY: 0
+---
+
 # 西浦转学指南(1)
 
 {% hint style="success" %}
