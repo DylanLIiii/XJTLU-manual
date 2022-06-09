@@ -2,6 +2,7 @@
 
 * [😀 Welcome, XJTLUer!](README.md)
 * [🍨 XJTLU生存指北 -- 序](xjtlu-sheng-cun-zhi-bei-xu.md)
+* [✍ Blog](https://dylanheddedly.notion.site/Blog-1897d18b5a55486694d1ac914647a54e)
 
 ## 🌗 西浦生存自救指北
 
@@ -25,7 +26,7 @@
 * [转学/Transfer](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-transfer/README.md)
   * [西浦转学指南(1)](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-transfer/xi-pu-zhuan-xue-zhi-nan-1.md)
   * [韩国转学](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-transfer/han-guo-zhuan-xue.md)
-  * [转学之旅 (Part1)](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-transfer/zhuan-xue-zhi-lv-part1.md)
+  * [转学之旅 (Part1)](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-zhi-lv-part1.md)
 * [金数申请思考](liu-xue-shen-qing-zi-jiu-zhi-bei/jin-shu-shen-qing-si-kao.md)
 * [2 + 行程准备](liu-xue-shen-qing-zi-jiu-zhi-bei/2-+-hang-cheng-zhun-bei.md)
 * [2+ 签证篇](liu-xue-shen-qing-zi-jiu-zhi-bei/2+-qian-zheng-pian.md)
