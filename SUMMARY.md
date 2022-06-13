@@ -7,6 +7,8 @@
 
 ## 🌗 西浦生存自救指北
 
+* [Data Science](xi-pu-sheng-cun-zi-jiu-zhi-bei/data-science/README.md)
+  * [Data-Science-XJTLU](xi-pu-sheng-cun-zi-jiu-zhi-bei/data-science/data-science-xjtlu.md)
 * [经济与金融](xi-pu-sheng-cun-zi-jiu-zhi-bei/jing-ji-yu-jin-rong/README.md)
   * [\[经金在读分享\]A quick recap of 2022 S2 at XJTLU](xi-pu-sheng-cun-zi-jiu-zhi-bei/jing-ji-yu-jin-rong/jing-jin-zai-du-fen-xiangaquick-recap-of-2022-s2-at-xjtlu.md)
 * [ICS](xi-pu-sheng-cun-zi-jiu-zhi-bei/ics/README.md)
@@ -25,10 +27,10 @@
 ## ⭐ 留学申请自救指北
 
 * [转学/Transfer](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-transfer/README.md)
-  * [西浦转学指南](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-transfer/xi-pu-zhuan-xue-zhi-nan.md)
+  * [西浦转学指南](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-transfer/xi-pu-zhuan-xue-zhi-nan-1.md)
   * [韩国转学](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-transfer/han-guo-zhuan-xue.md)
   * [转学之旅 (Part1)](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-zhi-lv-part1.md)
-  * [转学之旅 (Part 2)](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-transfer/zhuan-xue-zhi-lv-part-2.md)
+  * [转学之旅 (Part2)](liu-xue-shen-qing-zi-jiu-zhi-bei/zhuan-xue-transfer/zhuan-xue-zhi-lv-part2.md)
 * [金数申请思考](liu-xue-shen-qing-zi-jiu-zhi-bei/jin-shu-shen-qing-si-kao.md)
 * [2 + 行程准备](liu-xue-shen-qing-zi-jiu-zhi-bei/2-+-hang-cheng-zhun-bei.md)
 * [2+ 签证篇](liu-xue-shen-qing-zi-jiu-zhi-bei/2+-qian-zheng-pian.md)

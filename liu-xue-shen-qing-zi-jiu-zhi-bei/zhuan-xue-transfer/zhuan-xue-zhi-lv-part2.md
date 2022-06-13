@@ -1,4 +1,4 @@
-# 转学之旅 (Part 2)
+# 转学之旅 (Part2)
 
 {% hint style="success" %}
 作者: Ricky&#x20;
