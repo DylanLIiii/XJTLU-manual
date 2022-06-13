@@ -1,5 +1,7 @@
 ---
-description: Awesome-XJTLU 已经停止维护, 如有新提交请在本本项目完成.
+description: Awesome-XJTLU 已经停止维护, 如有新提交请在本项目完成.
+cover: .gitbook/assets/circle-scatter-haikei.svg
+coverY: -79.67522262964904
 ---
 
 # 📦 Awesome-XJTLU (Archive)

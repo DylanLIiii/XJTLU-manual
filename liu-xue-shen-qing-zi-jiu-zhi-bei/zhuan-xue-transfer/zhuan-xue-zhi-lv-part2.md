@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/blob-scene-haikei.svg
+coverY: -386.11838658983766
+---
+
 # 转学之旅 (Part2)
 
 {% hint style="success" %}

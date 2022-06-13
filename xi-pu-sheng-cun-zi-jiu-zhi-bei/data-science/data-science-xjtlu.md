@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/blob-scatter-haikei.svg
+coverY: 279.0990047145102
+---
+
 # Data-Science-XJTLU
 
 This repository will iteratively provide all relevant XJTLU data science module information and guidance.
