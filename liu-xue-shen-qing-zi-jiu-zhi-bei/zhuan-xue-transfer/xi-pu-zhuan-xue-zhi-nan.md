@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/blurry-gradient-haikei.svg
 coverY: 0
 ---
 
-# 西浦转学指南(1)
+# 西浦转学指南
 
 {% hint style="success" %}
 作者: [SwallowLiu](https://www.zhihu.com/people/swallowliu)
@@ -21,7 +21,7 @@ coverY: 0
 
 **韩国本科申请：**[**韩国**](https://www.zhihu.com/question/438793302/answer/2141899203)****
 
-**我的英本申请路线：** [xi-pu-zhuan-xue-zhi-nan-1.md](xi-pu-zhuan-xue-zhi-nan-1.md "mention")****
+**我的英本申请路线：** [xi-pu-zhuan-xue-zhi-nan.md](xi-pu-zhuan-xue-zhi-nan.md "mention")****
 
 **我的香港申请路线：**[**香港**](https://www.zhihu.com/question/425448220/answer/1907253022)****
 
