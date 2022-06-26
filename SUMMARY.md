@@ -2,7 +2,7 @@
 
 * [😀 Welcome, XJTLUer!](README.md)
 * [🍨 XJTLU生存指北 -- 序](xjtlu-sheng-cun-zhi-bei-xu.md)
-* [🚀 Update](https://dylanheddedly.notion.site/Blog-1897d18b5a55486694d1ac914647a54e)
+* [🚀 XJTLU Manual Update ](https://dylanheddedly.notion.site/Blog-1897d18b5a55486694d1ac914647a54e)
 * [📦 Awesome-XJTLU (Archive)](awesome-xjtlu-archive.md)
 
 ## 🌗 西浦生存自救指北
@@ -46,6 +46,7 @@
 * [聊聊学术语言](xue-shu-yu-yan-zi-jiu-zhi-bei/liao-liao-xue-shu-yu-yan.md)
 * [EAP](xue-shu-yu-yan-zi-jiu-zhi-bei/eap/README.md)
   * [EAP, Why so serious?](xue-shu-yu-yan-zi-jiu-zhi-bei/make-eap-easy.md)
+* [一图加一文，帮助你了解 GRE 和 TOEFL 的联合备考](https://sspai.com/post/73360)
 
 ## 🌤 求职发展自救指北
 
